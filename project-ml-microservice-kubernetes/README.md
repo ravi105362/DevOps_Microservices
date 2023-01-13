@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ravi105362/DevOps_Microservices/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ravi105362/DevOps_Microservices/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ravi105362/DevOps_Microservices/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ravi105362/DevOps_Microservices/tree/circleci-project-setup)
 
 ## Project Overview
 
