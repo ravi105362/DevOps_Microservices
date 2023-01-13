@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://dl.circleci.com/status-badge/img/gh/ravi105362/DevOps_Microservices/tree/circleci-project-setup.svg?style=svg
 
 ## Project Overview
 
@@ -48,3 +48,21 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+# Summary
+Gets the predicted value from the trained model
+
+# Instructions
+To run the model use these steps-
+1. run_docker.sh -> To build and run docker file locally
+2. upload_docker.sh -> to upload the docker file on docker hub
+3. run_kubernetes.sh -> to push the docker images on the cluster
+
+# Files
+These are the files in the directory
+app.py - Contains the code for python flask app
+run_docker.py - see above
+upload_docker.sh - see above
+run_kubernetes.sh - see above
+make_predicition.sh - get the predicted value from the hosted api
+Dockerfile -  Contains the instruction to build docker image
