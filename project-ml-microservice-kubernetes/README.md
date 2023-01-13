@@ -59,10 +59,10 @@ To run the model use these steps-
 3. run_kubernetes.sh -> to push the docker images on the cluster
 
 # Files
-These are the files in the directory
-app.py - Contains the code for python flask app
-run_docker.py - see above
-upload_docker.sh - see above
-run_kubernetes.sh - see above
-make_predicition.sh - get the predicted value from the hosted api
-Dockerfile -  Contains the instruction to build docker image
+These are the files in the directory - 
+1. app.py - Contains the code for python flask app
+2. run_docker.py - see above
+3. upload_docker.sh - see above
+4. run_kubernetes.sh - see above
+5. make_predicition.sh - get the predicted value from the hosted api
+6. Dockerfile -  Contains the instruction to build docker image
