@@ -22,3 +22,13 @@ project-6b67fbf87-996t9   1/1     Running   0          106s
 Forwarding from 0.0.0.0:80 -> 80
 Handling connection for 80
 
+
+
+OUTPUT-
+nirjharijankar@Nirjharis-MBP project-ml-microservice-kubernetes % ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
